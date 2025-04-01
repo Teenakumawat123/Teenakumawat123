@@ -1,6 +1,5 @@
 <h1 align="center">Hi 🐤,I am Teena Kumawat</h1>
 <h3 align="center"> Currently pursuig B.Tech.from M.L.V.Textile and Engineering College,Bhilwara (Raj.)
-
 - 👋 Hi, I’m @Teenakumawat123
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

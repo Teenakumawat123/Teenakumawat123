@@ -1,6 +1,4 @@
 <h1 align="center">Hi 🐤, I am Teena Kumawat</h1>
-<h3 align="center">🎓 B.Tech (CSE - IoT) Student | 🌟 Self-Motivated Learner | 💻 Aspiring Software Engineer</h3>
-
 ---
 
 ### 👋 About Me

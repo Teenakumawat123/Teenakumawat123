@@ -11,13 +11,12 @@
 - 💞️ I’m looking to collaborate on **innovative student projects**
 - 📫 How to reach me:  
   📧 Email: [teeenakumawat25072005@gmail.com]  
-  💼 LinkedIn: [Teena Kumawat](-/https://www.linkedin.com/in/teena-kumawat-0479592a7)  
+  💼 LinkedIn: (/https://www.linkedin.com/in/teena-kumawat-0479592a7)  
   🧠 LeetCode: (https://leetcode.com/u/teenakumawat/)
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Teenakumawat123&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teenakumawat123&layout=compact&theme=radical" height="150"/>
 </p>
 
 <!---

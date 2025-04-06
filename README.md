@@ -3,7 +3,9 @@
 ### 👋 About Me
 
 - 🧑‍🎓 I’m currently pursuing **B.Tech** from **M.L.V. Textile & Engineering College**, Bhilwara (Rajasthan)
+ 
 - 🌱 I’m currently learning:  `C++`, `HTML`, `CSS`,`DSA`, `OOPs`, and building my own projects
+  
 - 📫 How to reach me:  
   📧 Email: [teeenakumawat25072005@gmail.com]  
   💼 LinkedIn: (/https://www.linkedin.com/in/teena-kumawat-0479592a7)  

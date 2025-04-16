@@ -10,7 +10,7 @@
     
   📧 Email: [teeenakumawat25072005@gmail.com]  
   💼 LinkedIn: (/https://www.linkedin.com/in/teena-kumawat-0479592a7)  
-  🧠 LeetCode: (https://leetcode.com/u/teenakumawat/)
+  🧠 LeetCode: (https://leetcode.com/u/Teena_Kumawat/)
 
 
 <!---
